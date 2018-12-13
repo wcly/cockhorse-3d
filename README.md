@@ -1,2 +1,2 @@
 # cockhorse-3d
-[展示效果]()
+![展示图片](./demo.gif)
